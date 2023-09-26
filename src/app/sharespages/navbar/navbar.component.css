@@ -1,0 +1,14 @@
+.nav-link{
+    color:#36C9C6;
+    font-size: 17px;
+}
+.nav-link:hover{
+    color: #ED6A5A;
+}
+.navbar-nav {
+    margin-left: auto;
+}
+.name{
+    font-size: 25px;
+    color: #ED6A5A;
+}

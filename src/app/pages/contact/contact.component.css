@@ -1,0 +1,36 @@
+.btn {
+    background-color: #36C9C6;
+    color: white;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+    
+
+}
+h1{
+    color: #ED6A5A;
+}
+.form-group {
+    margin-bottom: 20px;
+    background-color: #f5f5f5;
+    background-color: rgba(0, 0, 0, 0.1);
+    
+
+    padding: 5%;
+    border-radius: 15px;
+}
+
+.form-control {
+    border: 2px solid #36C9C6;
+    border-radius: 4px;
+    padding: 10px;
+    font-size: 16px;
+    transition: border-color 0.3s;
+}
+
+.form-control:focus {
+    border-color: #ED6A5A;
+    box-shadow: 0 0 5px rgba(237, 106, 90, 0.5);
+}

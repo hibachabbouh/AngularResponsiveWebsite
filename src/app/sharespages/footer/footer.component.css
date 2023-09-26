@@ -1,0 +1,17 @@
+footer{
+    background-color: #36C9C6 !important;
+}
+a i{
+    color: white;
+    font-size: 17px;
+    padding: 40px;
+}
+a{
+    cursor: pointer;
+}
+ul li{
+    margin: 25px 0;
+}
+ul li:hover{
+    transform: translate(18px, 0);
+}
